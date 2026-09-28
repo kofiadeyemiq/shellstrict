@@ -1,0 +1,7 @@
+*.test
+*.out
+coverage.txt
+coverage.html
+/dist/
+/shellstrict
+/testdata/corpus/

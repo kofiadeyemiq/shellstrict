@@ -1,0 +1,13 @@
+name	url	license	sha256
+bats-install.sh	https://raw.githubusercontent.com/bats-core/bats-core/52439ebfac39987dd43e26502aa4aa19f2753d4a/install.sh	MIT	4c816c0f245784e190f2093cf6f3aa69e6a50a0d8d9e0a0c77d3f46a8178218b
+docker-install.sh	https://raw.githubusercontent.com/docker/docker-install/2b32480025b223ebfddae9a3a8bef09027680f53/install.sh	Apache-2.0	fefa50ccd50efb42f438b506fc3a88574118f314aaf2a7cd5b6e1ffb1bffcf26
+fzf-install.sh	https://raw.githubusercontent.com/junegunn/fzf/b1be3a8be1b833ce5b92fbbac11637643d60a046/install	MIT	b10b31f476c58e44db325d0cf29a4765664fd9b59ca04833a42f56e7ab1433f9
+git-completion.bash	https://raw.githubusercontent.com/git/git/34f06850c16c7f7ac822b1adc71354f11b0f2ca3/contrib/completion/git-completion.bash	GPL-2.0	3b1018983d1ca279967403e65d1dac8b4afd30baafdf104f057a652c199015a6
+homebrew-install.sh	https://raw.githubusercontent.com/Homebrew/install/0a396a4ee5b538f409de666af904fa0570b53949/install.sh	BSD-2-Clause	f31a38f097f3b5bbfdc110658e4a9876d0c023ccc9ef2e70527f5b8a762e505e
+k8s-hack-lib-init.sh	https://raw.githubusercontent.com/kubernetes/kubernetes/218e641e7b1938a0bfb14408fb57434f8c3cfcc5/hack/lib/init.sh	Apache-2.0	dccfe1037fed074881842fdd63fe6eae4d62cc0042b34ba09140ce71e3061376
+k8s-verify-gofmt.sh	https://raw.githubusercontent.com/kubernetes/kubernetes/218e641e7b1938a0bfb14408fb57434f8c3cfcc5/hack/verify-gofmt.sh	Apache-2.0	f82309e63d3c8c10be5a52e5004a676ae9dffdd2fb037280a28e3a204d078eee
+nvm-install.sh	https://raw.githubusercontent.com/nvm-sh/nvm/09822033d2bdb555fc52fa64489aaa4928695da3/install.sh	MIT	48a0eee9a60e07422dce0eb5774754c83889570ca1ee2566c516acbe8af03a9e
+ohmyzsh-install.sh	https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/83a0ec79ee3b1f64c6ae2e80dcb1fb27a55e5952/tools/install.sh	MIT	5574b96e94dbcb769f0d1592fa83aeb6ca2caf41c6ae5d76fcc7f04c524b4f55
+pyenv.sh	https://raw.githubusercontent.com/pyenv/pyenv/bb15db59a4bae0b11f9699c8c738836e5511e8d3/libexec/pyenv	MIT	256f096b840d7e37c04da572c4771da0222a8bcb2ed19cfb9c0ba075b1e7e840
+rbenv.sh	https://raw.githubusercontent.com/rbenv/rbenv/07e9b1e297a5977298c6aadc9971ae0e9eb7f0dc/libexec/rbenv	MIT	7ebd37fc6e4cba85db222503e341fd0abd567d69909a03514d96eb771e620db0
+rustup-init.sh	https://raw.githubusercontent.com/rust-lang/rustup/7d81ba37adf6b2797c252e6921f4cf80e50184f3/rustup-init.sh	MIT OR Apache-2.0	9a47c3dd4d35d36397cf8e3c8dd9319741393e81476f5d6f0c650590635ace77
