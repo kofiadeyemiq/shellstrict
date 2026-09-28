@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/__GH_OWNER__/shellstrict/internal/corpus"
+	"github.com/kofiadeyemiq/shellstrict/internal/corpus"
 )
 
 // TestCorpus is shellstrict's real-world evidence run: it lints a set of

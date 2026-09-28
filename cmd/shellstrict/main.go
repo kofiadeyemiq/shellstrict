@@ -13,7 +13,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/__GH_OWNER__/shellstrict"
+	"github.com/kofiadeyemiq/shellstrict"
 )
 
 func main() {

@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/__GH_OWNER__/shellstrict/internal/corpus"
+	"github.com/kofiadeyemiq/shellstrict/internal/corpus"
 )
 
 func main() {

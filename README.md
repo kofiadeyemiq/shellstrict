@@ -51,7 +51,7 @@ To check the noise floor on real code rather than one demo script, shellstrict i
 ## Installation
 
 ```sh
-go install github.com/__GH_OWNER__/shellstrict/cmd/shellstrict@latest
+go install github.com/kofiadeyemiq/shellstrict/cmd/shellstrict@latest
 ```
 
 Go 1.26+. One dependency: `mvdan.cc/sh/v3`.

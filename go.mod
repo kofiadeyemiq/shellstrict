@@ -1,4 +1,4 @@
-module github.com/__GH_OWNER__/shellstrict
+module github.com/kofiadeyemiq/shellstrict
 
 go 1.26.0
 
